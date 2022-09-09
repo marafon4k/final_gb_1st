@@ -1,0 +1,15 @@
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/templates
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/templates.deps.json
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/templates.runtimeconfig.json
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/templates.dll
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/ref/templates.dll
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/bin/Debug/net6.0/templates.pdb
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.csproj.AssemblyReference.cache
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.AssemblyInfoInputs.cache
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.AssemblyInfo.cs
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.csproj.CoreCompileInputs.cache
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.dll
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/ref/templates.dll
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.pdb
+/Users/ichichinin/Desktop/Geekbrains/final_1st_block/templates/obj/Debug/net6.0/templates.genruntimeconfig.cache
